@@ -1,0 +1,35 @@
+.reach{
+color: #862FE7;
+font-family: Inter Variable;
+font-size: 18px;
+font-weight: 400;
+line-height: 32.4px;
+text-align: left;
+padding-bottom: 80px !important;
+}
+.bg-img{
+    background-image: url("../../assets/Div [absolute10].png");
+    background-repeat: no-repeat;
+    background-size: cover  ;
+}
+.road-divs{
+    padding-top: 112px !important;
+    padding-left: 250px !important;
+    padding-right: 139px !important;
+}
+.road-div1{
+    padding-top: 80px !important;
+    padding-left: 250px !important;
+    padding-right: 139px !important;
+}
+.head-font{
+    /* font-family: Century Gothic; */
+font-size: 18px;
+font-weight: 700;
+line-height: 32.4px;
+text-align: left;
+
+}
+.stopwatch{
+    padding: 64px 0px 64px 0px !important;
+}

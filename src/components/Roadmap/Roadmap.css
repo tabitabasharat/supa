@@ -1,0 +1,83 @@
+.roadmap{
+    font-family: Century Gothic;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 1.399999976158142px;
+    text-align: left;
+    color: #862FE7;
+
+}
+.road-img{
+    width: 1152px;
+height: 500px;
+top: 277.78px;
+left: 24px;
+gap: 0px;
+}
+.public{
+    font-family: Inter;
+font-size: 47.1px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: -1.2000000476837158px;
+text-align: left;
+color: #111827;
+}
+.msg{
+    /* font-family: Century Gothic; */
+font-size: 18px;
+font-weight: 400;
+line-height: 32.4px;
+text-align: left;
+color: #1F2534;
+}
+.road-div{
+    padding-top: 112px !important;
+}
+.div-cols{
+    padding-right: 139px !important;
+    padding-left: 139px !important;
+    padding-top: 64px !important;
+    padding-bottom: 80px !important;
+    gap: 24px !important;
+}
+.hr{
+    text-decoration: underline;
+
+}
+.prior{
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+    padding-left: 115px !important;
+    padding-right: 115px !important;
+}
+.feature{
+    font-family: Century Gothic;
+font-size: 14px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 1.399999976158142px;
+text-align: left;
+color: #E22BA4;
+
+}
+.features{
+    font-family: Century Gothic;
+font-size: 14px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 1.399999976158142px;
+text-align: left;
+color: #DC5F05;
+;
+
+}
+.explore{
+    width: 268.77px;
+height: 48px;
+gap: 0px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+
+}

@@ -1,0 +1,30 @@
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+.head{
+    padding-left: 115px !important;
+    padding-right: 115px !important;
+}
+.Sign-up-for-free{
+    width: 136.43px !important;
+height: 40px !important;
+left: 489.16px !important;
+padding: 11.5px 18.43px 12.5px 16px;
+gap: 0px;
+border-radius: 8px !important;
+background: #862FE7 !important;
+
+}
+.Sign-up-for-free p{
+    margin: 0px !important;
+}
+.Sign-up-for-free-font{
+    font-family: Century Gothic;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    
+}

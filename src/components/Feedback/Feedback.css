@@ -1,0 +1,15 @@
+.div-wid{
+    width: 40px !important;
+    height: 40px !important;
+}
+.heade{
+    /* font-family: Inter; */
+font-size: 20.2px;
+font-weight: 600;
+line-height: 26px;
+text-align: left;
+
+}
+.div-sty{
+    padding: 64px 24px 70px 24px;
+}
